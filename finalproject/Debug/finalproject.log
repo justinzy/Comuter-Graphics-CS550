@@ -1,0 +1,117 @@
+﻿生成启动时间为 2015/11/13 21:44:36。
+     1>项目“C:\Users\justi\Documents\GitHub\Comuter-Graphics-CS550\finalproject\finalproject.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo".\Debug/" /Fd".\Debug/vc140.pdb" /Gd /TP /analyze- /errorReport:prompt base.cpp bvh.cpp motion.cpp skeleton.cpp wxmv.cpp
+         base.cpp
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\base.cpp(12): fatal error C1083: 无法打开包括文件: “wx/wx.h”: No such file or directory
+         bvh.cpp
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(63): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(108): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(175): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(182): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(216): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(218): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(262): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(264): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(314): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(316): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(114): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(116): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(117): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(118): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(119): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(121): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(122): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(123): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(124): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(125): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(126): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(127): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(128): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(129): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.h(130): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(144): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(175): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(192): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(202): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(223): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(242): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(258): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(268): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(285): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(301): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(336): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(364): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(376): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(418): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(437): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(453): error C2131: 表达式的计算结果不是常数
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(453): note: 非常量参数或对非常量符号的引用导致了故障
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(453): note: 请参见“n_dofs”的用法
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(455): error C3863: array type 'double *[n_dofs]' is not assignable
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(459): error C2664: “void BvhFile::token_to_double(double &) throw(parse_error)”: 无法将参数 1 从“double *[n_dofs]”转换为“double &”
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(466): error C2143: 语法错误: 缺少“;”(在“[”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(466): error C2337: “n_tridofs”: 未找到特性
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(479): error C2664: “RotationalTriDOF::RotationalTriDOF(const RotationalTriDOF &)”: 无法将参数 3 从“double *[n_dofs]”转换为“const double *”
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(479): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(484): error C2664: “TranslationalTriDOF::TranslationalTriDOF(const TranslationalTriDOF &)”: 无法将参数 3 从“double *[n_dofs]”转换为“const double *”
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(484): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(514): error C2131: 表达式的计算结果不是常数
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(514): note: 非常量参数或对非常量符号的引用导致了故障
+         c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(514): note: 请参见“n_frames”的用法
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(514): error C2148: 数组的总大小不得超过 0x7fffffff 字节
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(517): error C3863: array type 'double [n_frames]' is not assignable
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(518): error C3863: array type 'double [n_frames]' is not assignable
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(519): error C3863: array type 'double [n_frames]' is not assignable
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(522): error C2143: 语法错误: 缺少“;”(在“[”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(522): error C3409: 不允许空特性块
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(522): error C2143: 语法错误: 缺少“]”(在“常量”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(522): error C2059: 语法错误:“常量”
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\bvh.cpp(536): error C2036: “double (*)[n_frames]”: 未知的大小
+         motion.cpp
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(63): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(108): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(175): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(182): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(216): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(218): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(262): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(264): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(314): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.h(316): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(73): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(151): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(315): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2146: 语法错误: 缺少“)”(在标识符“and”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2065: “and”: 未声明的标识符
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2146: 语法错误: 缺少“;”(在标识符“and”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2146: 语法错误: 缺少“;”(在标识符“tridof”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(317): error C2059: 语法错误:“)”
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(318): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(320): error C2181: 没有匹配 if 的非法 else
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(334): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2146: 语法错误: 缺少“)”(在标识符“and”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2065: “and”: 未声明的标识符
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2146: 语法错误: 缺少“;”(在标识符“i”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2146: 语法错误: 缺少“;”(在标识符“and”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): warning C4552: “<”: 运算符不起任何作用；应输入带副作用的运算符
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2146: 语法错误: 缺少“;”(在标识符“tridof”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(336): error C2059: 语法错误:“)”
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(337): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(339): error C2181: 没有匹配 if 的非法 else
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(400): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(419): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(529): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\motion.cpp(545): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+         skeleton.cpp
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\skeleton.cpp(15): fatal error C1083: 无法打开包括文件: “wx/wx.h”: No such file or directory
+         wxmv.cpp
+     1>c:\users\justi\documents\github\comuter-graphics-cs550\finalproject\wxmv.cpp(13): fatal error C1083: 无法打开包括文件: “wx/wxprec.h”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“C:\Users\justi\Documents\GitHub\Comuter-Graphics-CS550\finalproject\finalproject.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.48
