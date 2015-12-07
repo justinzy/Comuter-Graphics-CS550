@@ -43,7 +43,7 @@
 
 // title of these windows:
 
-const char *WINDOWTITLE = { "OpenGL / GLUT project3 -- Yu Zhang" };
+const char *WINDOWTITLE = { "OpenGL / GLUT project6 -- Yu Zhang" };
 const char *GLUITITLE   = { "User Interface Window" };
 
 //project3 bmpto texture
@@ -1268,6 +1268,8 @@ Reset( )
 	Period = 0.;
 	CpOn = 0;
 	AniMode = 0;
+	ClOn = 0;
+	
 }
 
 
